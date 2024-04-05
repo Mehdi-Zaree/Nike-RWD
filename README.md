@@ -1,2 +1,3 @@
 # Nike-RWD
-Nike's website developed by bootstrap fully responsive.
+Nike's website was developed by Bootstrap fully responsive.
+<a href="https://mehdi-zaree.github.io/Nike-RWD/">demo link</a>
